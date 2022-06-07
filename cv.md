@@ -35,3 +35,7 @@ function multiply (a, b) {
 return a * b
 }
 ```
+
+## Projects:
+
+https://PereiraSeb.github.io/rsschool-cv/cv
