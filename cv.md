@@ -1,4 +1,4 @@
-![MyPhoto]](https://user-images.githubusercontent.com/95858918/172454181-e64841f0-ec66-4e5d-b60b-fcda2f00d4c8.png "My Photo")
+![MyPhoto](https://user-images.githubusercontent.com/95858918/172454576-9dcc0923-1ac5-492f-9a76-2ae3d81e07a2.png "My Photo")
 
 # Dunin Anatoly
 
